@@ -1,0 +1,28 @@
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\MyControlsLibrary.deps.json
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\MyControlsLibrary.dll
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\MyControlsLibrary.pdb
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.csproj.AssemblyReference.cache
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.ApplicationUC.resources
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.csproj.GenerateResource.cache
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.AssemblyInfoInputs.cache
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.AssemblyInfo.cs
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.csproj.CoreCompileInputs.cache
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.dll
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\refint\MyControlsLibrary.dll
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.pdb
+G:\3 kurs\RPM\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\ref\MyControlsLibrary.dll
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\MyControlsLibrary.deps.json
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\MyControlsLibrary.dll
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\ref\MyControlsLibrary.dll
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\bin\Debug\net6.0-windows\MyControlsLibrary.pdb
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.csproj.AssemblyReference.cache
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.ApplicationUC.resources
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.csproj.GenerateResource.cache
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.AssemblyInfoInputs.cache
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.AssemblyInfo.cs
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.csproj.CoreCompileInputs.cache
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.dll
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\ref\MyControlsLibrary.dll
+D:\ВКИ\3kurs\DemoProject\MyControlsLibrary\obj\Debug\net6.0-windows\MyControlsLibrary.pdb

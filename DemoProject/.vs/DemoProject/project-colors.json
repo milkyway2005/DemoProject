@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ec4a608-cbc6-4700-af32-c08724b48783": {
+      "ProjectGuid": "9ec4a608-cbc6-4700-af32-c08724b48783",
+      "DisplayName": "DemoApp",
+      "ColorIndex": 0
+    },
+    "7059fcc9-cc56-4e96-9f38-84149d006e3d": {
+      "ProjectGuid": "7059fcc9-cc56-4e96-9f38-84149d006e3d",
+      "DisplayName": "MyControlsLibrary",
+      "ColorIndex": 1
+    },
+    "c3ef9303-c7da-459d-acb3-c2f041819724": {
+      "ProjectGuid": "c3ef9303-c7da-459d-acb3-c2f041819724",
+      "DisplayName": "CalculationLibrary",
+      "ColorIndex": 2
+    },
+    "ca5da408-57b9-4cdf-9791-066890a1d423": {
+      "ProjectGuid": "ca5da408-57b9-4cdf-9791-066890a1d423",
+      "DisplayName": "CalculationLibrary",
+      "ColorIndex": 3
+    },
+    "1c072d21-0963-444f-96b0-fe852815d57b": {
+      "ProjectGuid": "1c072d21-0963-444f-96b0-fe852815d57b",
+      "DisplayName": "CalculationLibraryTests",
+      "ColorIndex": 4
+    },
+    "8c43479d-5ca5-41d5-a4d6-50f585de5570": {
+      "ProjectGuid": "8c43479d-5ca5-41d5-a4d6-50f585de5570",
+      "DisplayName": "CalculationLibraryTests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

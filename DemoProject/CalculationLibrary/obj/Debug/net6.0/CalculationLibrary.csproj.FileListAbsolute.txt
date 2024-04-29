@@ -1,0 +1,12 @@
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\bin\Debug\net6.0\CalculationLibrary.deps.json
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\bin\Debug\net6.0\CalculationLibrary.dll
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\bin\Debug\net6.0\ref\CalculationLibrary.dll
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\bin\Debug\net6.0\CalculationLibrary.pdb
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.csproj.AssemblyReference.cache
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.AssemblyInfoInputs.cache
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.AssemblyInfo.cs
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.csproj.CoreCompileInputs.cache
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.dll
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\ref\CalculationLibrary.dll
+D:\ВКИ\3kurs\DemoProject\CalculationLibrary\obj\Debug\net6.0\CalculationLibrary.pdb

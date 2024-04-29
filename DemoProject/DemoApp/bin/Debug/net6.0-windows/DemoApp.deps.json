@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoApp/1.0.0": {
+        "dependencies": {
+          "CalculationLibrary": "1.0.0",
+          "MyControlsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DemoApp.dll": {}
+        }
+      },
+      "CalculationLibrary/1.0.0": {
+        "runtime": {
+          "CalculationLibrary.dll": {}
+        }
+      },
+      "MyControlsLibrary/1.0.0": {
+        "runtime": {
+          "MyControlsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyControlsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
